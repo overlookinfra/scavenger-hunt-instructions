@@ -33,7 +33,7 @@ same except for minor implementation details.
 1. Fix its permissions with `chmod 600 student.pem`
 1. Log into your machine:
 
-    `ssh -i ~/.ssh/student.pem -l centos puppetcampnix<n>.classroom.puppet.com`
+    `ssh -i student.pem -l centos puppetcampnix<n>.classroom.puppet.com`
 
 1. Switch to the `root` account using `sudo -i`.
 
