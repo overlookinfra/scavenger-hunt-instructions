@@ -48,12 +48,14 @@ Use RDP to log in. Use PowerShell to run Puppet and Bolt commands.
 ## Playing the game
 
 Start off by running `puppet agent -t`. This will ensure that your machine's set up
-and will provide you with instructions for getting started. To move through the game
-you'll run a Bolt task and then run Puppet.
+and will provide you with instructions for getting started. Note that you may need to
+scroll back to read some of the Puppet output. And remember that because Puppet is
+idempotent, you can always run again to see the messages.
 
-The value passed to the task is always a hash, so be careful with quoting. The value
-must parse as JSON, which requires double quotes. In the example below, you see that
-the outer quotes are single and then inner quotes are double.
+To move through the game you'll run a Bolt task and then run Puppet. The value passed
+to the task is always a hash, so be careful with quoting. The value must parse as JSON,
+which requires double quotes. In the example below, you see that the outer quotes are
+single and then inner quotes are double.
 
 ```
 # bolt task run --targets localhost scavenger_hunt::external_fact value='{"start": "true"}'
