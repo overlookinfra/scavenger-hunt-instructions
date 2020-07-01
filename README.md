@@ -29,7 +29,7 @@ same except for minor implementation details.
 
 ### Linux
 
-1. Save the `student.pem` file from this repo to your local machine.
+1. Save the [`student.pem`](https://github.com/puppetlabs/scavenger-hunt-instructions/raw/master/student.pem) file from this repo to your local machine.
 1. Fix its permissions with `chmod 600 student.pem`
 1. Log into your machine:
 
