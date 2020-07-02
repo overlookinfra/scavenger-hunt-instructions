@@ -19,7 +19,7 @@ pop into the `#puppet-camps` channel.
 
 The game facilitator will post & pin a welcome message. To start the game, simply add a
 🔍 reaction (`:mag:`) to that message. You'll get a message with your machine login
-details from Slackbot. Maybe you already did that and followed the link...
+details from Slackbot. Maybe you already did that and followed the link here! 🤔
 
 
 ## Logging in to your environment
@@ -70,5 +70,5 @@ bit to find configuration settings.
 Chat with each other, ask each other or the facilitator for hints, laugh about how
 campy it is! Just have fun :)
 
-Note: you're totally welcome to collaboratively solve the puzzles, but please do that
-in a DM so that you don't reveal the answers to others trying to solve it on their own!
+***Note**: you're totally welcome to collaboratively solve the puzzles, but please do that
+in a DM so that you don't reveal the answers to others trying to solve it on their own!*
