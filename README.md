@@ -50,7 +50,7 @@ If you'd like to use the PE Console, you're totally welcome to log in with:
 
 * Username: `student<n>`
 * Password: `puppetlabs`
-* Address: `https://puppetcampmaster0.classroom.puppet.com`
+* Address: https://puppetcampmaster0.classroom.puppet.com
 
 
 ## Playing the game
