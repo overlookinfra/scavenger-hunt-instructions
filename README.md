@@ -44,6 +44,14 @@ Use RDP to log in. Use PowerShell to run Puppet and Bolt commands.
 * `rdp://puppetcampwin<n>.classroom.puppet.com`
 * `Administrator`/`PuppetLabs!`
 
+### PE Console
+
+If you'd like to use the PE Console, you're totally welcome to log in with:
+
+* Username: `student<n>`
+* Password: `puppetlabs`
+* Address: `https://puppetcampmaster0.classroom.puppet.com`
+
 
 ## Playing the game
 
